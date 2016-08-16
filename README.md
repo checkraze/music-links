@@ -10,7 +10,7 @@
 * [ARTFX: 11 ableton workflow tips] (https://www.youtube.com/watch?v=5eIABCVg1Xw)
 * [Ableton 30 Quick-Fire Tips] (https://www.youtube.com/watch?v=KpnOkgsrXP4)
 
-## Ableton tutorial sites
+## Ableton tutorial videos
 * [On Cloud Sine] (https://www.youtube.com/channel/UCvgfZ17n2Eeh6G3RG3b23Fg)
 * [musictech ableton tutorials] (http://www.musictech.net/tag/ableton-live-tutorials/)
 * [ARTFX tutorials] (https://www.youtube.com/channel/UCyhqYh-bLkx1hFzG5uyLdIA)
