@@ -17,8 +17,9 @@
 * [Point Blank Music School] (https://www.youtube.com/channel/UCIWNozFjO8yVdJFsGKVmPgg)
 * [Future Music Magazine] (https://www.youtube.com/channel/UC23xW9iC-ADQBLABJ9uIZww)
 
-## Ableton artist walkthroughs
+## Ableton artist/song walkthroughs
 * [NGHTMRE] (https://www.youtube.com/watch?v=7jl-LnAYjoM)
 * [Claude Von Stroke] (https://www.youtube.com/watch?v=4lDwZsXbRKk)
 * [Laidback Luke] (https://www.youtube.com/watch?v=IGlqW1FmGuQ)
 * [Chainsmokers] (https://www.youtube.com/watch?v=HlUGRbPLn-4)
+* [Blue Monday] (https://www.youtube.com/watch?v=P-FRgsmMtAQ)
