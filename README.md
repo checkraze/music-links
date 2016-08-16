@@ -4,6 +4,9 @@
 * [Audio effects] (https://www.ableton.com/en/manual/live-audio-effect-reference/)
 * [Midi effects] (https://www.ableton.com/en/manual/live-midi-effect-reference/)
 
+## /r/ableton
+* [Ableton Reddit Group] (https://www.reddit.com/r/ableton/)
+
 ## Ableton tips
 * [50 ableton workflow tips] (http://www.reckorder.com/50-ableton-workflow-tips-from-ak/)
 * [hobo tech ableton tips] (http://hobo-tech.com/ableton-live/)
