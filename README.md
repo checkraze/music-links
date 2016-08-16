@@ -22,4 +22,3 @@
 * [Claude Von Stroke] (https://www.youtube.com/watch?v=4lDwZsXbRKk)
 * [Laidback Luke] (https://www.youtube.com/watch?v=IGlqW1FmGuQ)
 * [Chainsmokers] (https://www.youtube.com/watch?v=HlUGRbPLn-4)
-* 
