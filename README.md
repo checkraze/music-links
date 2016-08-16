@@ -16,6 +16,7 @@
 * [ARTFX tutorials] (https://www.youtube.com/channel/UCyhqYh-bLkx1hFzG5uyLdIA)
 * [Point Blank Music School] (https://www.youtube.com/channel/UCIWNozFjO8yVdJFsGKVmPgg)
 * [Future Music Magazine] (https://www.youtube.com/channel/UC23xW9iC-ADQBLABJ9uIZww)
+* [ADSR Music Production Tutorials] (https://www.youtube.com/channel/UCf5UKh_cj2_5pUomhyswWYQ)
 
 ## Ableton artist/song walkthroughs
 * [NGHTMRE] (https://www.youtube.com/watch?v=7jl-LnAYjoM)
