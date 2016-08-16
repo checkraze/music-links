@@ -27,3 +27,13 @@
 * [Laidback Luke] (https://www.youtube.com/watch?v=IGlqW1FmGuQ)
 * [Chainsmokers] (https://www.youtube.com/watch?v=HlUGRbPLn-4)
 * [Blue Monday] (https://www.youtube.com/watch?v=P-FRgsmMtAQ)
+
+## Ableton software
+* [J74 harmotools] (https://www.ableton.com/en/blog/j74-harmotools-free-max-live-devices-chords/)
+* [100 free effects racks] (https://cymatics.fm/2016/05/31/free-ableton-effect-racks/)
+
+# Sounds!
+* [Freesound] (https://www.freesound.org/)
+* [Sample Swap] (http://sampleswap.org/)
+
+
