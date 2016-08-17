@@ -38,6 +38,7 @@
 * [Robert Henke] (http://www.roberthenke.com/technology/)
  * [LFO 2.0] (http://www.roberthenke.com/technology/lfo.html)
 * [Virtual MIDI Piano Keyboard] (http://vmpk.sourceforge.net/)
+* [dexed synth] (https://asb2m10.github.io/dexed/)
 
 # Sounds!
 * [Freesound] (https://www.freesound.org/)
