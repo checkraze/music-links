@@ -36,7 +36,7 @@
 * [TAL effects] (https://tal-software.com/Products)
 * [Splice plugins list] (https://splice.com/plugins/free_plugins)
 * [Robert Henke] (http://www.roberthenke.com/technology/)
-..* [LFO 2.0] http://www.roberthenke.com/technology/lfo.html
+ * [LFO 2.0] http://www.roberthenke.com/technology/lfo.html
 * [Virtual MIDI Piano Keyboard] (http://vmpk.sourceforge.net/)
 
 # Sounds!
