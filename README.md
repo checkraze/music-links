@@ -35,9 +35,13 @@
 * [100 free effects racks] (https://cymatics.fm/2016/05/31/free-ableton-effect-racks/)
 * [TAL effects] (https://tal-software.com/Products)
 * [Splice plugins list] (https://splice.com/plugins/free_plugins)
+* [Robert Henke] (http://www.roberthenke.com/technology/)
+* * [LFO 2.0] http://www.roberthenke.com/technology/lfo.html
+* [Virtual MIDI Piano Keyboard] (http://vmpk.sourceforge.net/)
 
 # Sounds!
 * [Freesound] (https://www.freesound.org/)
 * [Sample Swap] (http://sampleswap.org/)
 
-
+# Mixing and Mastering
+* [Interview on Mastering with Rashad Becker] (http://www.roberthenke.com/interviews/mastering.html)
