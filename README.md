@@ -34,6 +34,7 @@
 * [J74 harmotools] (https://www.ableton.com/en/blog/j74-harmotools-free-max-live-devices-chords/)
 * [100 free effects racks] (https://cymatics.fm/2016/05/31/free-ableton-effect-racks/)
 * [TAL effects] (https://tal-software.com/Products)
+* [Splice plugins list] (https://splice.com/plugins/free_plugins)
 
 # Sounds!
 * [Freesound] (https://www.freesound.org/)
