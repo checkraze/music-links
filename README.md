@@ -44,6 +44,7 @@
 # Sounds!
 * [Freesound] (https://www.freesound.org/)
 * [Sample Swap] (http://sampleswap.org/)
+* [Converse Sample Library] (https://www.conversesamplelibrary.com/)
 
 # Mixing and Mastering
 * [Dubspot Ableton mastering chain] (http://blog.dubspot.com/ableton-audio-mastering-template/)
