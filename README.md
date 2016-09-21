@@ -6,7 +6,7 @@
 
 ## Forums
 * [/r/ableton] (https://www.reddit.com/r/ableton/)
-* [/r/edmproduction/] (https://www.reddit.com/r/edmproduction/)
+* [/r/edmproduction] (https://www.reddit.com/r/edmproduction/)
 
 ## Ableton tips
 * [50 ableton workflow tips] (http://www.reckorder.com/50-ableton-workflow-tips-from-ak/)
