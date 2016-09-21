@@ -23,6 +23,7 @@
 * [Future Music Magazine] (https://www.youtube.com/channel/UC23xW9iC-ADQBLABJ9uIZww)
 * [ADSR Music Production Tutorials] (https://www.youtube.com/channel/UCf5UKh_cj2_5pUomhyswWYQ)
 * [Ableton Liveschool] (https://www.youtube.com/channel/UC0_MRIcjqu5LDh7A6--hOWQ)
+* [Pyramid] (https://www.youtube.com/channel/UCIJ0x4nL4uojXpMuM0fYs0Q)
 
 ## Ableton artist/song walkthroughs
 * [NGHTMRE] (https://www.youtube.com/watch?v=7jl-LnAYjoM)
