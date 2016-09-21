@@ -45,4 +45,5 @@
 * [Sample Swap] (http://sampleswap.org/)
 
 # Mixing and Mastering
+* [Dubspot Ableton mastering chain] (http://blog.dubspot.com/ableton-audio-mastering-template/)
 * [Interview on Mastering with Rashad Becker] (http://www.roberthenke.com/interviews/mastering.html)
