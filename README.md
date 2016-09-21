@@ -49,6 +49,7 @@
 # Mixing and Mastering
 * [Dubspot Ableton mastering chain] (http://blog.dubspot.com/ableton-audio-mastering-template/)
 * [Interview on Mastering with Rashad Becker] (http://www.roberthenke.com/interviews/mastering.html)
+* [Mixing Down Dance Music with Ableton] (https://www.ableton.com/en/blog/mixing-down-dance-music-using-live/)
 
 # Music Theory
 * [Earmaster Music Theory] (http://www.earmaster.com/music-theory-online/course-introduction.html)
