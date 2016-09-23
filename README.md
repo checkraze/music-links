@@ -36,26 +36,33 @@
 * [Chainsmokers] (https://www.youtube.com/watch?v=HlUGRbPLn-4)
 * [Blue Monday] (https://www.youtube.com/watch?v=P-FRgsmMtAQ)
 
-## Ableton software
+## VST/Ableton software I use
+* [Native Instruments Massive] (https://www.native-instruments.com/en/products/komplete/synths/massive/)
+* [Korg Legacy Bundle] (http://www.korg.com/us/products/software/korg_legacy_collection/)
 * [J74 harmotools] (https://www.ableton.com/en/blog/j74-harmotools-free-max-live-devices-chords/)
-* [100 free effects racks] (https://cymatics.fm/2016/05/31/free-ableton-effect-racks/)
-* [TAL effects] (https://tal-software.com/Products)
-* [Splice plugins list] (https://splice.com/plugins/free_plugins)
-* [Robert Henke] (http://www.roberthenke.com/technology/)
- * [LFO 2.0] (http://www.roberthenke.com/technology/lfo.html)
-* [Virtual MIDI Piano Keyboard] (http://vmpk.sourceforge.net/)
-* [dexed synth] (https://asb2m10.github.io/dexed/)
+* [WaveDNA Liquid Music] (https://www.wavedna.com/liquid-music/)
 
-# Sounds!
+* [Virtual MIDI Piano Keyboard] (http://vmpk.sourceforge.net/)
+
+## Other VST/Ableton software 
+* [Voxengo Free plugins] (http://www.voxengo.com/group/free-vst-plugins/)
+* [dexed synth] (https://asb2m10.github.io/dexed/)
+* [Splice plugins list] (https://splice.com/plugins/free_plugins)
+* [TAL effects] (https://tal-software.com/Products)
+* [100 free effects racks] (https://cymatics.fm/2016/05/31/free-ableton-effect-racks/)
+* [Robert Henke] (http://www.roberthenke.com/technology/)
+** [LFO 2.0] (http://www.roberthenke.com/technology/lfo.html)
+
+## Sounds!
 * [Freesound] (https://www.freesound.org/)
 * [Sample Swap] (http://sampleswap.org/)
 * [Converse Sample Library] (https://www.conversesamplelibrary.com/)
 
-# Mixing and Mastering
+## Mixing and Mastering
 * [Dubspot Ableton mastering chain] (http://blog.dubspot.com/ableton-audio-mastering-template/)
 * [Interview on Mastering with Rashad Becker] (http://www.roberthenke.com/interviews/mastering.html)
 * [Mixing Down Dance Music with Ableton] (https://www.ableton.com/en/blog/mixing-down-dance-music-using-live/)
 
-# Music Theory
+## Music Theory
 * [Earmaster Music Theory] (http://www.earmaster.com/music-theory-online/course-introduction.html)
 * [Open Music Theory] (http://openmusictheory.com/contents.html)
