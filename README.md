@@ -36,6 +36,7 @@
 * [Chainsmokers] (https://www.youtube.com/watch?v=HlUGRbPLn-4)
 * [Blue Monday] (https://www.youtube.com/watch?v=P-FRgsmMtAQ)
 * [Matthew Dear] (https://www.youtube.com/watch?v=yP1IqR1_uHg)
+* [Lane 8] (https://www.youtube.com/watch?v=G_eGfgCzQis)
 
 ## VST/Ableton software I use
 * [Native Instruments Massive] (https://www.native-instruments.com/en/products/komplete/synths/massive/)
