@@ -35,6 +35,7 @@
 * [Laidback Luke] (https://www.youtube.com/watch?v=IGlqW1FmGuQ)
 * [Chainsmokers] (https://www.youtube.com/watch?v=HlUGRbPLn-4)
 * [Blue Monday] (https://www.youtube.com/watch?v=P-FRgsmMtAQ)
+* [Matthew Dear] (https://www.youtube.com/watch?v=yP1IqR1_uHg)
 
 ## VST/Ableton software I use
 * [Native Instruments Massive] (https://www.native-instruments.com/en/products/komplete/synths/massive/)
