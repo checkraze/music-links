@@ -67,3 +67,6 @@
 ## Music Theory
 * [Earmaster Music Theory] (http://www.earmaster.com/music-theory-online/course-introduction.html)
 * [Open Music Theory] (http://openmusictheory.com/contents.html)
+* 
+## Creativty and Process
+* [Five stages electronic music producer] (http://edmprod.com/5-stages-electronic-music-producer/)
