@@ -50,7 +50,7 @@
 * [TAL effects] (https://tal-software.com/Products)
 * [100 free effects racks] (https://cymatics.fm/2016/05/31/free-ableton-effect-racks/)
 * [Robert Henke] (http://www.roberthenke.com/technology/)
-* * [LFO 2.0] (http://www.roberthenke.com/technology/lfo.html)
+⋅⋅* [LFO 2.0] (http://www.roberthenke.com/technology/lfo.html)
 
 ## Sounds!
 * [Freesound] (https://www.freesound.org/)
