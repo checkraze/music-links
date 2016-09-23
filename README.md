@@ -41,6 +41,7 @@
 ## VST/Ableton software I use
 * [Native Instruments Massive] (https://www.native-instruments.com/en/products/komplete/synths/massive/)
 * [Korg Legacy Bundle] (http://www.korg.com/us/products/software/korg_legacy_collection/)
+* [Pluggo Max 4 Live] (https://docs.cycling74.com/max5/vignettes/core/live_resources_pluggo.html)
 * [J74 harmotools] (https://www.ableton.com/en/blog/j74-harmotools-free-max-live-devices-chords/)
 * [WaveDNA Liquid Music] (https://www.wavedna.com/liquid-music/)
 * [Virtual MIDI Piano Keyboard] (http://vmpk.sourceforge.net/)
