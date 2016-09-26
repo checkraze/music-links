@@ -62,6 +62,7 @@
 * [Converse Sample Library] (https://www.conversesamplelibrary.com/)
 * [Music Radar Free Samples] (http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820)
 * [/r/Drumkits] (https://www.reddit.com/r/Drumkits/)
+* [Goldbaby Free Packs] (http://www.goldbaby.co.nz/freestuff.html)
 
 ## Mixing and Mastering
 * [Dubspot Ableton mastering chain] (http://blog.dubspot.com/ableton-audio-mastering-template/)
