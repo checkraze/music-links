@@ -30,6 +30,7 @@
 ## Ableton Sampling
 * [Soundflower audio routing driver] (https://github.com/mattingalls/Soundflower)
 * [Remove background noise from samples] (https://ask.audio/articles/ableton-tutorial-automatically-denoise-audio-without-3rd-party-plugins)
+* [Ableton Warping Tips] (https://ask.audio/articles/effective-warping-tips-in-ableton-live-9)
 
 ## Ableton artist/song walkthroughs
 * [NGHTMRE] (https://www.youtube.com/watch?v=7jl-LnAYjoM)
