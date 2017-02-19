@@ -50,6 +50,7 @@
 * [Virtual MIDI Piano Keyboard] (http://vmpk.sourceforge.net/)
 
 ## Other VST/Ableton software 
+* [Flintpope synths] (https://flintpope.com/)
 * [Voxengo Free plugins] (http://www.voxengo.com/group/free-vst-plugins/)
 * [dexed synth] (https://asb2m10.github.io/dexed/)
 * [Splice plugins list] (https://splice.com/plugins/free_plugins)
