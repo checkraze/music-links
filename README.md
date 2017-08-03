@@ -75,6 +75,7 @@
 * [Mixing Down Dance Music with Ableton] (https://www.ableton.com/en/blog/mixing-down-dance-music-using-live/)
 * [Understanding Compression] (http://patches.zone/blog/2016/5/22/o2y2kbe23qgjpchgoj39g2c1cgm28b)
 * [Mixdown Tips] (http://innerportalstudio.com/articles/Mixdowns.pdf)
+* [121 Mixing Tips] (https://audioskills.com/tips/mixing/)
 
 ## Music Theory
 * [Earmaster Music Theory] (http://www.earmaster.com/music-theory-online/course-introduction.html)
