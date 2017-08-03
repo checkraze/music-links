@@ -9,6 +9,7 @@
 * [/r/edmproduction] (https://www.reddit.com/r/edmproduction/)
 * [/r/AdvancedProduction] (https://www.reddit.com/r/AdvancedProduction/)
 * [/r/WeAreTheMusicMakers] (https://www.reddit.com/r/WeAreTheMusicMakers)
+* [/r/AudioEngineering] (https://www.reddit.com/r/audioengineering/)
 
 ## Ableton tips
 * [50 ableton workflow tips] (http://www.reckorder.com/50-ableton-workflow-tips-from-ak/)
@@ -73,6 +74,7 @@
 * [Interview on Mastering with Rashad Becker] (http://www.roberthenke.com/interviews/mastering.html)
 * [Mixing Down Dance Music with Ableton] (https://www.ableton.com/en/blog/mixing-down-dance-music-using-live/)
 * [Understanding Compression] (http://patches.zone/blog/2016/5/22/o2y2kbe23qgjpchgoj39g2c1cgm28b)
+* [Mixdown Tips] (http://innerportalstudio.com/articles/Mixdowns.pdf)
 
 ## Music Theory
 * [Earmaster Music Theory] (http://www.earmaster.com/music-theory-online/course-introduction.html)
@@ -80,3 +82,6 @@
 
 ## Creativty and Process
 * [Five stages electronic music producer] (http://edmprod.com/5-stages-electronic-music-producer/)
+
+## Ableton Skins
+* [Dark Theme] (https://www.reddit.com/r/ableton/comments/6f9d9h/dark_theme_i_made_for_ableton_based_on_visual/)
