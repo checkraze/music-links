@@ -19,6 +19,7 @@
 * [patches.zone] (http://patches.zone/)
 
 ## Ableton tutorial videos
+* [EVRTU Sorted Ableton Videos Archive] (http://evrtu.com/tutorials/learn-ableton-live.php)
 * [On Cloud Sine] (https://www.youtube.com/channel/UCvgfZ17n2Eeh6G3RG3b23Fg)
 * [musictech ableton tutorials] (http://www.musictech.net/tag/ableton-live-tutorials/)
 * [ARTFX tutorials] (https://www.youtube.com/channel/UCyhqYh-bLkx1hFzG5uyLdIA)
