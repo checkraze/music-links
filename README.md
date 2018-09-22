@@ -77,6 +77,7 @@
 * [Understanding Compression] (http://patches.zone/blog/2016/5/22/o2y2kbe23qgjpchgoj39g2c1cgm28b)
 * [Mixdown Tips] (http://innerportalstudio.com/articles/Mixdowns.pdf)
 * [121 Mixing Tips] (https://audioskills.com/tips/mixing/)
+* [Rick Beato on Compression - the best tutorial I've seen] (https://www.youtube.com/watch?v=7oOmX3JHwtE)
 
 ## Music Theory
 * [Earmaster Music Theory] (http://www.earmaster.com/music-theory-online/course-introduction.html)
